@@ -6,7 +6,6 @@ import About from "./Components/About/About";
 import Layout from "./Components/Layout/Layout";
 import Portofolio from "./Components/Portofolio/Portofolio";
 import "./App.css";
-// import "../node_modules/@fortawesome/fontawesome-svg-core/styles.css";
 
 const App = () => {
   let routes = createBrowserRouter([
