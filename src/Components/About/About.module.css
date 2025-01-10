@@ -1,0 +1,10 @@
+.abt_section {
+  background-color: #1abc9c;
+  height: 80vh;
+}
+
+.line {
+  height: 4px;
+  width: 80px;
+  background-color: #fff;
+}
