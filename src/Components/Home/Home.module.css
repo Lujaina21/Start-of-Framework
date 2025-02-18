@@ -1,0 +1,14 @@
+.home {
+  background-color: #1abc9c;
+  height: 80vh;
+}
+
+.hero_img {
+  width: 250px;
+}
+
+.line {
+  height: 4px;
+  width: 80px;
+  background-color: #fff;
+}
